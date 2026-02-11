@@ -69,7 +69,7 @@ The dashboard highlights key performance indicators such as units sold, total sa
 <img width="1418" height="494" alt="Screenshot 2026-02-10 at 9 33 39 PM" src="https://github.com/user-attachments/assets/6ad9e17b-234b-4f2b-aa24-22c340c0f721" />
 
 ## 👤 Author
-**Moamen Mohamed Raafat** [LinkedIn Profile](https://www.linkedin.com/in/moamen-mohamed-raafat/) | [Portfolio Website](https://yourportfolio.com)
+**Moamen Mohamed Raafat** [LinkedIn Profile](https://www.linkedin.com/in/moamen-mohamed-raafat/) | [Portfolio Website](https://moumenraafat.github.io/MoamenMohamedRaafat.github.io/)
 
 
 
