@@ -59,9 +59,17 @@ The dashboard highlights key performance indicators such as units sold, total sa
 
 ## How to Use This Repository
 
-1. **Clone the repo**
+1.  Download the `Adidas-US-Interactive-Sales-Project_Moumen.xlsx` file from this repository.
+2.  Open the file in **Microsoft Excel 2016** or later.
+3.  Navigate to the **Dashboard** tab.
+4.  Use **Slicers** on the left to filter by **City** and **State**.
+
 
 ## Dashboard
 <img width="1418" height="494" alt="Screenshot 2026-02-10 at 9 33 39 PM" src="https://github.com/user-attachments/assets/6ad9e17b-234b-4f2b-aa24-22c340c0f721" />
+
+## 👤 Author
+**Moamen Mohamed Raafat** [LinkedIn Profile](https://www.linkedin.com/in/moamen-mohamed-raafat/) | [Portfolio Website](https://yourportfolio.com)
+
 
 
