@@ -62,6 +62,6 @@ The dashboard highlights key performance indicators such as units sold, total sa
 1. **Clone the repo**
 
 ## Dashboard
-<img width="1374" height="495" alt="Screenshot 2025-12-11 at 12 43 39 AM" src="[https://github.com/user-attachments/assets/b0c2d9e2-b778-460e-b9f5-00b53c739668](https://github.com/user-attachments/assets/2f4decfb-8ff8-4163-b585-b169c97b9247)" />
+<img width="1418" height="494" alt="Screenshot 2026-02-10 at 9 33 39 PM" src="https://github.com/user-attachments/assets/6ad9e17b-234b-4f2b-aa24-22c340c0f721" />
 
 
