@@ -1,15 +1,15 @@
-# Adidas US Interactive Sales Dashboard
+# 📊 Adidas US Interactive Sales Dashboard (Excel)
 
 An interactive Excel dashboard analyzing Adidas sales performance across the United States for 2020–2021, with insights by product category, region, retailer, and sales method.
 
 ---
 
-## Project Overview
+## 📌 Project Overview
 
 This project showcases an end‑to‑end retail analytics workflow, from raw transaction data to an executive‑ready dashboard.  
 The dashboard highlights key performance indicators such as units sold, total sales, operating profit, and profit margin across products, regions, and time.
 
-### Business Questions
+### 💡 Business Questions
 
 - Are sales and profit trending up or down over time?  
 - Which product categories generate the highest profit?  
@@ -19,18 +19,16 @@ The dashboard highlights key performance indicators such as units sold, total sa
 
 ---
 
-## Dataset
+## 📊 Dataset
 
 - Scope: Adidas sales transactions in the US between 2020 and 2021.  
 - Granularity: Transaction‑level data including date, product, region, state, city, retailer, sales method, units sold, price, and operating profit.  
 - Source: Public practice dataset for learning data analytics and dashboarding (Excel format).  
 - Size: Approximately a few thousand rows, suitable for Excel‑based analysis.
 
-> Replace this section with the exact source link and citation once you upload or reference the dataset.
-
 ---
 
-## Features of the Dashboard
+## 📈 Features of the Dashboard
 
 - **Profit by Product**  
   Column chart showing operating profit by product category (e.g., men’s apparel, women’s apparel, athletic footwear, street footwear).
@@ -49,7 +47,7 @@ The dashboard highlights key performance indicators such as units sold, total sa
 
 ---
 
-## Tools and Technologies
+## 🚀 Tools and Technologies
 
 - Microsoft Excel (Pivot Tables, Pivot Charts, Slicers, Map Chart, Formatting).  
 - Basic data cleaning and transformation using Excel formulas and table features.  
@@ -57,7 +55,7 @@ The dashboard highlights key performance indicators such as units sold, total sa
 
 ---
 
-## How to Use This Repository
+## 🚀 How to Use This Repository
 
 1.  Download the `Adidas-US-Interactive-Sales-Project_Moumen.xlsx` file from this repository.
 2.  Open the file in **Microsoft Excel 2016** or later.
@@ -65,7 +63,7 @@ The dashboard highlights key performance indicators such as units sold, total sa
 4.  Use **Slicers** on the left to filter by **City** and **State**.
 
 
-## Dashboard
+## 📷 Dashboard Preview
 <img width="1418" height="494" alt="Screenshot 2026-02-10 at 9 33 39 PM" src="https://github.com/user-attachments/assets/6ad9e17b-234b-4f2b-aa24-22c340c0f721" />
 
 ## 👤 Author
